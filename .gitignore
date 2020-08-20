@@ -1,0 +1,4 @@
+.env.txt
+ImageAlbum/__pycache__
+Album/__pycache__
+ImageAlbum/migrations/__pycache__
